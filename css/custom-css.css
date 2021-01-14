@@ -1,0 +1,79 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+.color1{
+    color: #FABE4C;
+}
+.color2{
+    color: #363958;
+}
+.color3{
+    color: #3E3E3E;
+}
+.color4{
+    color: #363958;
+}
+.color5{
+    color: black;
+}
+.text-size1{
+    font-weight:bold; 
+    font-size: 45px;
+}
+.text-size2{
+    font-weight:bold; 
+    font-size: 30px;
+}
+main section{
+    padding-top: 50px;
+}
+#header{
+    background-color: #FFFBF0;
+}
+.card img{
+    background-color: #F1F1F1;
+}
+.card-custom-footer{
+    border: 0px;
+    border-radius: 2em!important;
+}
+.customized-btn{
+    background-color: #A4BC46;
+    border-radius: 0.5em;
+    color: white;
+    border: 0;
+    text-transform: uppercase;
+}
+.custom-card{
+    border-radius: 1em;
+}
+
+.image{
+    background-color: #F1F1F1;
+    margin: 1em auto;
+    height: 327px; 
+    width: 360px;
+    border-radius: 1em;
+}
+.card-customized-image{
+    margin: 1em 2.5em;
+}
+.custom-horizontal-card{
+    border-radius: 10px;
+}
+.custom-horizontal-card img{
+    height: 80px;
+    width: 78px;
+    margin: 2em;
+}
+.carousel-modifier .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+footer{
+    background-color: #fceae8;
+}
+ul li{
+    list-style: none;   
+}
